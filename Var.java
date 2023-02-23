@@ -6,8 +6,8 @@ public class Var {
 		String name= "kitae";
 		double pi = 3.14;
 
-		System.out.print("price = " + (price + 1000));
-		System.out.print("name = " + name);
-		System.out.print("pi = " + pi*10);
+		System.out.println("price = " + (price + 1000));
+		System.out.println("name = " + name);
+		System.out.println("pi = " + pi*10);
 	}
 }
